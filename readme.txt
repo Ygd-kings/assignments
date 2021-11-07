@@ -14,3 +14,5 @@ hello attach this file with the css-assignments.
 =======
 hello this is css file
 >>>>>>> css-assignments
+
+ur are now js file
