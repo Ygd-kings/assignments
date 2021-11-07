@@ -16,3 +16,5 @@ hello this is css file
 >>>>>>> css-assignments
 
 This is js file
+
+more over i added in the js file
